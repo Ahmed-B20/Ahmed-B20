@@ -1,4 +1,4 @@
-<img src='https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=1380' title='freepik' />
+<img src='https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=1380' title='freepik' style='width: 100%' />
 <h1 align="center">Hi 👋, I'm Ahmed Mamdouh</h1>
 <h3 align="center">A passionate frontend developer looking for to learn a new technology</h3>
 
