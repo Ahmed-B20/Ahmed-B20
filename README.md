@@ -1,5 +1,6 @@
+<img src='https://www.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_10487786.htm' title='freepik' />
 <h1 align="center">Hi 👋, I'm Ahmed Mamdouh</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate frontend developer looking for to learn a new technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-b20&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-b20" /> </p>
 
