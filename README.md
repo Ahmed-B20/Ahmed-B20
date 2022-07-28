@@ -1,4 +1,4 @@
-<img src='https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg' title='freepik' />
+<img src='https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=1380' title='freepik' />
 <h1 align="center">Hi 👋, I'm Ahmed Mamdouh</h1>
 <h3 align="center">A passionate frontend developer looking for to learn a new technology</h3>
 
