@@ -1,5 +1,5 @@
 <img src='https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=1380' title='freepik' style='width: 100%' />
-<img src=../img/dino.gif' style='width: 100%' />
+<img src=./img/dino.gif' style='width: 100%' />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Mamdouh;A+passionate+frontend+developer+looking+for+learn+a+new+technology)](https://git.io/typing-svg)
 
