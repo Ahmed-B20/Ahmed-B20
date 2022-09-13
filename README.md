@@ -1,4 +1,5 @@
-<img src='https://github.com/Ahmed-B20/Ahmed-B20/blob/main/img/dino.gif' style='width: 100%' />
+<!-- <img src='https://github.com/Ahmed-B20/Ahmed-B20/blob/main/img/dino.gif' style='width: 100%' /> -->
+<img src='https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=826&t=st=1663078047~exp=1663078647~hmac=e90dab3b724df002cbf77cbe1d2c27eeffdae5f0401771ae77c1ccf641112322' style='width: 100%' />
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Mamdouh;A+passionate+frontend+developer+looking+for+learn+a+new+technology)](https://git.io/typing-svg)
