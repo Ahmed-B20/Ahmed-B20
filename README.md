@@ -36,8 +36,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-b20&show_icons=true&locale=en" alt="ahmed-b20" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-b20&" alt="ahmed-b20" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-b20&show_icons=true&locale=en&layout=compact" alt="ahmed-b20" />
 </p>
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-b20&show_icons=true&locale=en&layout=compact" alt="ahmed-b20" />
+  
 </p>
