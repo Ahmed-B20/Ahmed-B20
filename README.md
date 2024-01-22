@@ -33,15 +33,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmed-b20&show_icons=true&locale=en" alt="ahmed-b20" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-b20&" alt="ahmed-b20" />
-  <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-b20&show_icons=true&locale=en" alt="ahmed-b20" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-b20&" alt="ahmed-b20" />
 </p>
 
-<br />
-
 <p align="center">
-  <br />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-b20&show_icons=true&locale=en&layout=compact" alt="ahmed-b20" />
 </p>
